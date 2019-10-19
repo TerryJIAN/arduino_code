@@ -1,5 +1,5 @@
 int AA = 0;
-int BB = 178;
+int BB = 100;
 int CC = 255;
 int fadeAmount = 5;
 int delayDuration = 2000;
